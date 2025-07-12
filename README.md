@@ -44,7 +44,7 @@ Manual diagnosis of brain tumors from MRI scans is time-consuming and error-pron
 ## Results
 
 The fine-tuned ResNet18 outperformed all models with:
-- **Accuracy**: ~100%
+- **Accuracy**: 99.54%
 - **F1-Score**: 1.00 (macro & weighted average)
 - **Precision & Recall**: Near-perfect across all classes
 
