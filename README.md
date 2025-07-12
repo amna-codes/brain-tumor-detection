@@ -58,8 +58,8 @@ Performance comparisons were visualized through:
 Sample screenshots and confusion matrices can be found in the notebook.
 
 ## Project Structure
-
-'''BrainTumorDetectionSystem/
+```
+BrainTumorDetectionSystem/
 ├── brain_tumor_app/ # Flask app backend
 │ ├── app.py
 │ ├── templates/
@@ -70,8 +70,8 @@ Sample screenshots and confusion matrices can be found in the notebook.
 │ └── BrainTumorDetectionSystemFYP25.ipynb
 │
 ├── requirements.txt # Python dependencies
-├── README.md '''
-
+├── README.md
+```
 ## Authors
 
 This project was developed as part of the Final Year Project (Session 2021–2025) at  
